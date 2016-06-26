@@ -10,3 +10,8 @@ LocalStorageException.prototype = new Error();
 
 LocalStorageException.prototype.constructor = LocalStorageException;
 
+
+
+
+
+
